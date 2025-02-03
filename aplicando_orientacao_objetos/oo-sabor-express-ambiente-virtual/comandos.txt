@@ -1,0 +1,2 @@
+ativar ambiente venv windows -> venv\Scripts\activate.bat
+desligar ambiente venv -> deactivate
